@@ -1,0 +1,3 @@
+MainA class {
+
+}
