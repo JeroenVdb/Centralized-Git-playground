@@ -1,3 +1,0 @@
-myJavaClass {
-	final main Jeroen;
-}
