@@ -1,0 +1,3 @@
+myJavaClass {
+	main Jeroen;
+}
